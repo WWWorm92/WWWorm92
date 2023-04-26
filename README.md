@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello everybody
+___
 
-<!--
-**WWWorm92/WWWorm92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😎 I'm a programmer learning Python, HTML, C#.
+- 💡 Currently studying in Saint-Petersburg BSTU Voenmeh.
+-    Most of the time I'm writing and learning Python and workin on freelance.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 You can contact me
++ 💣 [Telegram](https://t.me/wwworm92)
++ 💣 [LinkedIN](https://linkedin.com/wwworm92)
+
+___
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wwworm92&show_icons=true&theme=tokyonight)
