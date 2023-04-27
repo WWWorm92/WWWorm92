@@ -3,7 +3,7 @@ ___
 
 - 😎 I'm a programmer learning Python, HTML, C#.
 - 💡 Currently studying in Saint-Petersburg BSTU Voenmeh.
-- 🖥Most of the time I'm writing and learning Python and workin on freelance.
+- 🖥Most of the time I'm learning Python and working on freelance.
 
 
 ## 🤝 You can contact me
