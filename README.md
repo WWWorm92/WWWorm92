@@ -8,7 +8,7 @@ ___
 
 ## 🤝 You can contact me
 + ✉ [Telegram](https://t.me/wwworm92)
-+ ✉ [LinkedIN](https://linkedin.com/wwworm92)
++ ✉ [LinkedIN](https://www.linkedin.com/public-profile/settings )
 
 ___
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wwworm92&show_icons=true&theme=github_dark)
