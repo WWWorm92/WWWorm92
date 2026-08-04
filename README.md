@@ -1,48 +1,56 @@
-<div align="center">
+# Даниил Брывкин
 
+Системный администратор и разработчик. В основном занимаюсь Linux-инфраструктурой, сетями, self-hosted сервисами и автоматизацией. Пишу небольшие прикладные проекты, когда не нахожу готового решения под конкретную задачу.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+WWWorm92;Learning+Python%2C+HTML+and+C%23;Working+with+Lokosphinx;Open+to+new+experience)](https://git.io/typing-svg)
+Сейчас работаю с Windows и Linux, MikroTik и Keenetic, VPN, Nginx, systemd, Python, REST API, Git и GitHub. Отдельно развиваю Android-клиент на Kotlin и Jetpack Compose.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/munchen92)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
+## Основные проекты
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260" alt="Cat animation" />
+### Pulse Messenger
 
-</div>
+Self-hosted мессенджер на Node.js, Express, Socket.IO и SQLite. Есть личные сообщения, комнаты, файлы, реакции, опросы, администрирование, push-уведомления и автоматизированная установка на Linux.
 
-## About Me
+- [Сервер и web-клиент](https://github.com/WWWorm92/ZhurMessenger)
+- [Android-приложение](https://github.com/WWWorm92/ZhurMessengerApp)
 
-- Programmer learning `Python`, `HTML`, and `C#`
-- Working with the Russian cycling team `Lokosphinx`
-- Spending most of my time studying Python and doing freelance work
+### ETD Intercom for Home Assistant
 
-## Current Mission
+Пользовательская интеграция Home Assistant для домофонов ETD: открытие дверей и ворот, камеры, превью и живое видео через WHEP/WebRTC.
 
-- Python practice every day
-- Web development basics
-- Real project experience and growth
+- [Репозиторий интеграции](https://github.com/WWWorm92/etd-intercom-home-assistant)
 
-## Tech Stack
+### GroupRace и SwissData
 
-<div align="center">
+Инструменты для проведения велосоревнований: работа со стартовыми списками, результатами, статистикой, протоколами и экранной графикой для OBS.
 
-<img src="https://skillicons.dev/icons?i=python,html,css,cs,github&theme=dark" alt="Tech stack icons" />
+- [GroupRace](https://github.com/WWWorm92/grouprace)
+- [SwissData](https://github.com/WWWorm92/SwissData)
 
-</div>
+### Face Recognition
 
-## GitHub
+Локальный backend распознавания лиц и отдельная интеграция для Home Assistant. Проект включает FastAPI, OpenCV, Docker Compose, web-интерфейс и события для автоматизаций.
 
-<div align="center">
+- [Backend](https://github.com/WWWorm92/Face_Recognition_Backend)
+- [Home Assistant bridge](https://github.com/WWWorm92/Face_Recognition_HAIntegration)
 
-![Followers](https://img.shields.io/github/followers/wwworm92?style=for-the-badge&color=2563EB&labelColor=0F172A)
-![Stars](https://img.shields.io/github/stars/wwworm92?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2563EB&labelColor=0F172A)
-![Profile Views](https://komarev.com/ghpvc/?username=wwworm92&style=for-the-badge&color=2563EB)
+### AmneziaPanel
 
-</div>
+Установщик для набора VPN-сервисов и вспомогательных компонентов на Debian/Ubuntu. Поддерживает интерактивную и автоматическую установку.
 
+- [AmneziaPanel](https://github.com/WWWorm92/AmneziaPanel)
 
+## С чем работаю
 
-<div align="center">
+- Linux, Windows, SSH, systemd, Nginx;
+- TCP/IP, DNS, DHCP, NAT, VLAN и маршрутизация;
+- MikroTik, Keenetic, WireGuard, OpenVPN и SSTP;
+- Python, Bash, JavaScript, Node.js;
+- Kotlin, Jetpack Compose, Room, WorkManager и WebRTC;
+- Docker, REST API, MQTT, Git и GitHub;
+- Home Assistant и интеграции с локальными устройствами.
 
+Часть репозиториев — рабочие проекты, которыми я продолжаю пользоваться. Старые учебные прототипы оставлены отдельно и помечены как архивные, чтобы не выдавать их за готовые продукты.
 
-</div>
+## Контакты
+
+Telegram: [@munchen92](https://t.me/munchen92)
