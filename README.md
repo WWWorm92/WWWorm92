@@ -1,56 +1,98 @@
-# Даниил Брывкин
+Daniil Bryvkin
 
-Системный администратор и разработчик. В основном занимаюсь Linux-инфраструктурой, сетями, self-hosted сервисами и автоматизацией. Пишу небольшие прикладные проекты, когда не нахожу готового решения под конкретную задачу.
+System Administrator & Developer
 
-Сейчас работаю с Windows и Linux, MikroTik и Keenetic, VPN, Nginx, systemd, Python, REST API, Git и GitHub. Отдельно развиваю Android-клиент на Kotlin и Jetpack Compose.
+I work primarily with Linux infrastructure, networking, self-hosted services, and automation. I also build small practical tools and applications when an existing solution doesn't quite fit the problem.
 
-## Основные проекты
+My day-to-day stack includes Linux, Windows, MikroTik, Keenetic, VPN technologies, Nginx, systemd, Python, REST APIs, Git, and GitHub. I also develop Android applications using Kotlin and Jetpack Compose.
 
-### Pulse Messenger
+🚀 Featured Projects
 
-Self-hosted мессенджер на Node.js, Express, Socket.IO и SQLite. Есть личные сообщения, комнаты, файлы, реакции, опросы, администрирование, push-уведомления и автоматизированная установка на Linux.
+💬 Pulse Messenger
 
-- [Сервер и web-клиент](https://github.com/WWWorm92/ZhurMessenger)
-- [Android-приложение](https://github.com/WWWorm92/ZhurMessengerApp)
+A self-hosted messenger built with Node.js, Express, Socket.IO, and SQLite.
 
-### ETD Intercom for Home Assistant
+It supports private messaging, rooms, file sharing, reactions, polls, administration, push notifications, and automated deployment on Linux.
 
-Пользовательская интеграция Home Assistant для домофонов ETD: открытие дверей и ворот, камеры, превью и живое видео через WHEP/WebRTC.
+- "Server & Web Client" (https://github.com/WWWorm92/ZhurMessenger)
+- "Android App" (https://github.com/WWWorm92/ZhurMessengerApp)
 
-- [Репозиторий интеграции](https://github.com/WWWorm92/etd-intercom-home-assistant)
+Tech: Node.js · Express · Socket.IO · SQLite · Kotlin · Jetpack Compose
 
-### GroupRace и SwissData
+---
 
-Инструменты для проведения велосоревнований: работа со стартовыми списками, результатами, статистикой, протоколами и экранной графикой для OBS.
+🏠 ETD Intercom for Home Assistant
 
-- [GroupRace](https://github.com/WWWorm92/grouprace)
-- [SwissData](https://github.com/WWWorm92/SwissData)
+A custom Home Assistant integration for ETD intercom systems.
 
-### Face Recognition
+Provides door and gate controls, camera previews, and live video streaming using WHEP/WebRTC.
 
-Локальный backend распознавания лиц и отдельная интеграция для Home Assistant. Проект включает FastAPI, OpenCV, Docker Compose, web-интерфейс и события для автоматизаций.
+- "GitHub Repository" (https://github.com/WWWorm92/etd-intercom-home-assistant)
 
-- [Backend](https://github.com/WWWorm92/Face_Recognition_Backend)
-- [Home Assistant bridge](https://github.com/WWWorm92/Face_Recognition_HAIntegration)
+Tech: Home Assistant · Python · REST API · WebRTC · WHEP
 
-### AmneziaPanel
+---
 
-Установщик для набора VPN-сервисов и вспомогательных компонентов на Debian/Ubuntu. Поддерживает интерактивную и автоматическую установку.
+🚴 GroupRace & SwissData
 
-- [AmneziaPanel](https://github.com/WWWorm92/AmneziaPanel)
+Tools designed for managing cycling competitions.
 
-## С чем работаю
+They handle start lists, race results, statistics, protocols, and on-screen graphics for live broadcasts through OBS.
 
-- Linux, Windows, SSH, systemd, Nginx;
-- TCP/IP, DNS, DHCP, NAT, VLAN и маршрутизация;
-- MikroTik, Keenetic, WireGuard, OpenVPN и SSTP;
-- Python, Bash, JavaScript, Node.js;
-- Kotlin, Jetpack Compose, Room, WorkManager и WebRTC;
-- Docker, REST API, MQTT, Git и GitHub;
-- Home Assistant и интеграции с локальными устройствами.
+- "GroupRace" (https://github.com/WWWorm92/grouprace)
+- "SwissData" (https://github.com/WWWorm92/SwissData)
 
-Часть репозиториев — рабочие проекты, которыми я продолжаю пользоваться. Старые учебные прототипы оставлены отдельно и помечены как архивные, чтобы не выдавать их за готовые продукты.
+---
 
-## Контакты
+👤 Face Recognition
 
-Telegram: [@munchen92](https://t.me/munchen92)
+A fully local face-recognition backend with a separate integration for Home Assistant.
+
+The project includes a FastAPI backend, OpenCV-based face processing, Docker Compose deployment, a web interface, and events that can be used in Home Assistant automations.
+
+- "Backend" (https://github.com/WWWorm92/Face_Recognition_Backend)
+- "Home Assistant Integration" (https://github.com/WWWorm92/Face_Recognition_HAIntegration)
+
+Tech: Python · FastAPI · OpenCV · Docker · Home Assistant
+
+---
+
+🔐 AmneziaPanel
+
+An installer and management utility for deploying VPN services and supporting components on Debian and Ubuntu.
+
+Supports both interactive setup and automated installation.
+
+- "AmneziaPanel" (https://github.com/WWWorm92/AmneziaPanel)
+
+Tech: Linux · Bash · VPN · WireGuard · OpenVPN · Automation
+
+🛠 Tech Stack
+
+Systems & Infrastructure
+
+"Linux" "Windows" "SSH" "systemd" "Nginx" "Docker"
+
+Networking
+
+"TCP/IP" "DNS" "DHCP" "NAT" "VLAN" "Routing"
+"MikroTik" "Keenetic" "WireGuard" "OpenVPN" "SSTP"
+
+Development
+
+"Python" "Bash" "JavaScript" "Node.js"
+"Kotlin" "Jetpack Compose" "Room" "WorkManager"
+
+APIs & Automation
+
+"REST API" "WebRTC" "MQTT" "Git" "GitHub" "Home Assistant"
+
+About My Repositories
+
+Most of the projects highlighted above are practical tools that I actively use and continue to develop.
+
+Older experiments and learning projects are kept separately and marked as archived rather than presented as production-ready software.
+
+📫 Contact
+
+Telegram: "@munchen92" (https://t.me/munchen92)
